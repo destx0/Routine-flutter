@@ -10,3 +10,7 @@
 
 
 ![alt text](https://github.com/destx0/Routine-flutter/blob/master/lib/media/Screenshot%20from%202023-01-18%2009-36-15.png)
+
+
+
+![alt text](https://github.com/destx0/Routine-flutter/blob/master/lib/media/Screenshot%20from%202023-01-18%2009-41-31.png)
